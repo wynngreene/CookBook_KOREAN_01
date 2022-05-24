@@ -1,4 +1,17 @@
-INSTRUCTIONAL BOOK | COOK BOOK
-KOREAN CUISINE     | SING SONG
+INSTRUCTIONAL BOOK  | COOK BOOK
+KOREAN CUISINE      | SING SONG
+VER.01			    | 2022/05/23 - STARTING DATE
+
 
 LIST OF RECIPES
+SINGLE COMBO
+Calbi (Beef)
+Spicy Chicken
+Teriyaki Chicken
+Pig Feet
+Battered Cod fish
+Kimchi
+
+Calbi Beef Stew
+Chap Chae Noodles
+Pickled Radish Wrap -  (MUSSAMMARI)
